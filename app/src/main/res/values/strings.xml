@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidTutorial_15</string>
+
+    <string name="app_button_success">SUCCESS</string>
+    <string name="app_button_error">ERROR</string>
+    <string name="app_button_info">INFO</string>
+    <string name="app_button_warning">WARNING</string>
+    <string name="app_button_normal">NORMAL WITH AN ICON</string>
+
+</resources>
