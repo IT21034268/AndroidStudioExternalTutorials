@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTutorial_05</string>
+
+    <string name="app_header_activity_01">Activity 01</string>
+    <string name="app_header_activity_02">Activity 02</string>
+
+</resources>
