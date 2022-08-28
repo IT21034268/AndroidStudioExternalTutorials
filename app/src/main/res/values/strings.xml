@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTutorial_11</string>
+
+    <string name="app_button01">Button 01</string>
+    <string name="app_button02">Button 02</string>
+
+</resources>
