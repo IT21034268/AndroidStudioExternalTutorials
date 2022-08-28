@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTutorial_03</string>
+
+    <string name="app_initial_text">Hello World</string>
+    <string name="app_button">OK</string>
+    <string name="app_final_text">Already Changed</string>
+
+</resources>
