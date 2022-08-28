@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidTutorial_13</string>
+
+    <string name="app_header_01">Email Address</string>
+    <string name="app_header_02">Password</string>
+
+</resources>
